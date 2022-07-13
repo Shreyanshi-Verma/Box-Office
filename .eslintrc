@@ -8,6 +8,7 @@
     
     "parser": "babel-eslint",
     "rules": {
+        "react/function-component-definition": "off",
         "no-plusplus": [0],
         "react/jsx-filename-extension": [1,{"extensions":[".js", ".jsx"] }],
         "react/props-types": [0],
