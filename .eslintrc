@@ -8,7 +8,7 @@
     
     "parser": "babel-eslint",
     "rules": {
-        "react/function-component-definition": "off",
+       
         "no-plusplus": [0],
         "react/jsx-filename-extension": [1,{"extensions":[".js", ".jsx"] }],
         "react/props-types": [0],
@@ -19,11 +19,12 @@
         "react-hooks/rules-of-hooks": "error",
         "react-hooks/exhaustive-deps": "warn",
         
-                    "arrow-body-style": "off",
+        "arrow-body-style": "off",
         
-                    "prefer-arrow-callback": "off",
-                    "no-underscore-dangle": [0],
-
+        "prefer-arrow-callback": "off",
+        "no-underscore-dangle": [0],
+        "react/function-component-definition": "off",
+        
         // eslint-disable-next-line no-console
             "no-console": [0] 
     }
