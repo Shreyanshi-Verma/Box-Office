@@ -20,7 +20,6 @@ const Home = () => {
     if (ev.keyCode === 13) {
       onSearch();
     }
-    
   };
 
   return (
@@ -39,3 +38,7 @@ const Home = () => {
 };
 
 export default Home;
+
+
+
+
