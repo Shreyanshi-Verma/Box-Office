@@ -20,7 +20,7 @@
         "react-hooks/exhaustive-deps": "warn",
         
         "arrow-body-style": "off",
-        
+        "no-unused-vars": "warn",
         "prefer-arrow-callback": "off",
         "no-underscore-dangle": [0],
         "react/function-component-definition": "off",
